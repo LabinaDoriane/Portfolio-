@@ -1,0 +1,30 @@
+body {
+   background-color: black;
+   font-family: 'Gill Sans';
+   margin-left: 10px;}
+
+li {
+   display: inline-flex;
+   justify-content: space-around;
+   margin-left: 120px;
+   margin-top: 50px;
+   }
+a { color:white;
+   text-decoration: none;
+   }
+
+.menu {background-color: #0b025979;
+       display: flex;
+       flex-flow: row wrap;} 
+
+ a:hover {color: yellow;}    
+ 
+
+.logo {float: left;
+      height: 100px;
+      width: 100px ;}
+
+.lune {height: 350px;
+       width: 350px;
+       float: right;
+       margin-top: 50px;} 

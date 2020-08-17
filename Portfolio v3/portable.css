@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    font-family: 'Gill Sans';}
+
+    .logo {float: left;
+        height: 50px;
+        width: 50px ;}
+
+a { color:white;
+   text-decoration: none;
+   }
+
+   .lune {height: 100px;
+        width: 100px;
+        float: right;
+        margin-top: 10px;} 
