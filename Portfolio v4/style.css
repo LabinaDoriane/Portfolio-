@@ -1,0 +1,54 @@
+body {
+   background-color: black;
+   font-family: 'Gill Sans';
+   margin-left: 10px;
+}
+
+li {
+   display: inline-flex;
+   justify-content: space-around;
+   margin-left: 120px;
+   margin-top: 50px;
+   }
+a { color:white;
+   text-decoration: none;
+   }
+
+.menu {background-color: rgba(11, 4, 78, 0.459);
+      height: 100px;
+       display: flex;
+       flex-flow: row wrap;} 
+
+ a:hover {color: yellow;}    
+ 
+
+.logo {float: left;
+      height: 100px;
+      width: 100px ;}
+
+.lune {height: 350px;
+       width: 350px;
+       float: right;
+       margin-top: 50px;}     
+            
+.presentation {
+   background-color: rgba(11, 4, 78, 0.342);
+   width: 400px;
+   height: 400px;
+   margin-top: 50px;
+   margin-left: 50px;
+   border-radius: 100%;
+   box-shadow: #0b0259 5px 5px ;
+   
+   
+} 
+h2 {
+   color: yellow;
+   text-align: center;
+   font-family: cursive;
+   margin-top: 50px;
+}
+p{color: white;}         
+
+       
+           
